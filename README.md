@@ -19,6 +19,7 @@ _Det var klart at noko måtte gjerast_
 Dermed fekk eg ein idé! ![F_vec] må auke når ![r_vec] vert mindre, samtidig som han konvergerer mot ei øvre grense.
 Så merkeleg bruksområde dette er for logistisk vekst, møter denne funksjonstypen krava.
 [Wikipedia om logistisk funksjon (engelsk)](https://en.wikipedia.org/wiki/Logistic_function):
+
 ![logistisk]
 
 
